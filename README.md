@@ -7,4 +7,7 @@ They can use this dashboard for:
 ●	Comparing earthquake data across different regions, countries, or time periods
 ●	Educating the students about the frequency and intensity of earthquakes in their region or around the world.
 
+The following are some of the preprocessing steps we performed:
+Data Cleaning: correcting errors, inconsistencies, or missing values from the dataset. This was done by identifying and removing duplicates, filling in missing values, and correcting errors.
+
 
