@@ -19,3 +19,7 @@ Project Plan
 
 https://app.mural.co/t/dvproject6064/m/dvproject6064/1680556773118/756ca00facf036bf94b6afe20cd409d9e3d60e71?sender=u3885b76e71ce8639cc168634
 
+Dashboard
+
+https://public.tableau.com/app/profile/trilok.navya.dubaka/viz/Project_Final_Public/Dashboard1?publish=yes
+
